@@ -1,0 +1,17 @@
+
+
+.font {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.fun {
+    color:rgb(102, 0, 0)
+}
+
+.italics {
+    font-style: italic;
+}
+
+.bold  {
+    font-weight: bold;
+}
